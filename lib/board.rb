@@ -1,3 +1,3 @@
 # Define the variable board below.
-booard = ary
-ary = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+booard = array
+array = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
